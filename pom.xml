@@ -85,6 +85,8 @@
                                 -apiBasePath ${sjm.baseurl}${sjm.api-version}
                                 -disableCopySwaggerUi
                             </additionalparam>
+                            <source>8</source>
+
                         </configuration>
                     </execution>
                 </executions>
